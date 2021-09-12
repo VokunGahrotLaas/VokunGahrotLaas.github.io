@@ -1,13 +1,20 @@
 title: VokunGahrotLaas
-description: For now just a test site...
-
-show_downloads: true
-google_analytics:
-show_header: true
-
-icon:
-colorspace: purple
+email: maxence.michot.pro@gmail.com
+description: >-
+  Just a test website for me...
+baseurl: /
+url: https://vokungharotlaas.fr
+domain: vokungahrotlaas.fr
+twitter_username: VokunGahrotLaas
+github_username:  VokunGahrotLaas
 
 remote_theme: dracula/gh-pages
 plugins:
-- jekyll-remote-theme
+
+show_downloads: false
+google_analytics:
+show_header: false
+
+icon: ./icon.jpg
+colorspace: purple
+
