@@ -1,1 +1,13 @@
-remote_theme: "dracula/gh-pages"
+title: VokunGahrotLaas
+description: For now just a test site...
+
+show_downloads: true
+google_analytics:
+show_header: true
+
+icon:
+colorspace: purple
+
+remote_theme: dracula/gh-pages
+plugins:
+- jekyll-remote-theme
