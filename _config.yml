@@ -1,21 +1,24 @@
 title: VokunGahrotLaas
-email: maxence.michot.pro@gmail.com
-description: >-
+author:
+  name: VokunGahrotLaas
+  email: maxence.michot.pro@gmail.com
+description: >
   Just a test website for me...
-baseurl: /
-url: https://vokungharotlaas.fr
-domain: vokungahrotlaas.fr
-twitter_username: VokunGahrotLaas
-github_username:  VokunGahrotLaas
-
-remote_theme: dracula/gh-pages
-plugins:
-- jekyll-seo-tag
-
-show_downloads: false
+show_excerpts: true
 google_analytics: 226898178
-show_header: false
 
-icon: ./icon.jpg
-colorspace: purple
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+  social_links:
+    twitter: VokunGahrotLaas
+    github:  VokunGahrotLaas
 
+header_pages:
+  - about.md
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

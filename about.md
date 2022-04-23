@@ -1,7 +1,7 @@
 ---
-layout: default 
+layout: page
 title: About
 permalink: /about/
 ---
 
-# Author: [VokunGahrotLaas](https://github.com/VokunGahrotLaas)
+## Hi
