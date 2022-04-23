@@ -5,7 +5,7 @@ author:
 description: >
   Just a test website for me...
 show_excerpts: true
-google_analytics: 226898178
+google_analytics: G-VG439HTLK1
 
 minima:
   date_format: "%b %-d, %Y"
@@ -17,7 +17,8 @@ minima:
 header_pages:
   - about.md
 
-theme: jekyll-theme-hacker
+remote_theme: jekyll/minima
+#theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed
