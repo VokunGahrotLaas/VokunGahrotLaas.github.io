@@ -13,7 +13,7 @@ plugins:
 - jekyll-seo-tag
 
 show_downloads: false
-google_analytics:
+google_analytics: 226898178
 show_header: false
 
 icon: ./icon.jpg
