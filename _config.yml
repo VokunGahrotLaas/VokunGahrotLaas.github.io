@@ -1,9 +1,9 @@
-title: VokunGahrotLaas
+title: Maxence MICHOT
 author:
-  name: VokunGahrotLaas
+  name: Maxence MICHOT
   email: maxence.michot.pro@gmail.com
 description: >
-  Just a test website for me...
+  Welcome to my personal website.
 show_excerpts: true
 google_analytics: G-VG439HTLK1
 
@@ -19,7 +19,6 @@ header_pages:
   - about.md
 
 remote_theme: jekyll/minima
-#theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed
